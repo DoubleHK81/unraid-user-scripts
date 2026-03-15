@@ -1,0 +1,15 @@
+# Logs
+*.log
+*.log.old
+
+# Cooldown/tracker files
+.docker_health_cooldown
+.docker_restart_tracker
+
+# Environment files with secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
